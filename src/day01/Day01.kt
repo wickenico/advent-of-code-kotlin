@@ -4,6 +4,7 @@ import readInput
 
 fun main() {
     println(part1(readInput("day01", "input"), 1))
+    println(part1(readInput("day01", "input"), 3))
 }
 
 fun part1(input: List<String>, count: Int): Int {
