@@ -13,3 +13,4 @@ In this repository, wickenico is about to provide solutions for the puzzles usin
 ## 2022 
 
 - [Day01](https://github.com/wickenico/advent-of-code-kotlin/tree/main/src/day01)
+- [Day02](https://github.com/wickenico/advent-of-code-kotlin/tree/main/src/day02)
