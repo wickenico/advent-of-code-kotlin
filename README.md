@@ -18,3 +18,4 @@ In this repository, wickenico is about to provide solutions for the puzzles usin
 - [Day04](https://github.com/wickenico/advent-of-code-kotlin/tree/main/src/day04)
 - [Day05](https://github.com/wickenico/advent-of-code-kotlin/tree/main/src/day05)
 - [Day06](https://github.com/wickenico/advent-of-code-kotlin/tree/main/src/day06)
+- [Day07](https://github.com/wickenico/advent-of-code-kotlin/tree/main/src/day07)
